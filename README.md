@@ -1,7 +1,7 @@
-# Inducing Neural Collapse via Anticlasses and One-Cold Cross-Entropy Loss (TNNLS'25)
+# AntiClass Tool: Inducing Neural Collapse via Anticlasses and One-Cold Cross-Entropy Loss (TNNLS'25)
 
 Official PyTorch implementation of  
-[**Inducing Neural Collapse via Anticlasses and One-Cold Cross-Entropy Loss (TNNLS'25)**](https://ieeexplore.ieee.org/document/11053771)  
+[**Inducing Neural Collapse via Anticlasses and One-Cold Cross-Entropy Loss (TNNLS'25)**](https://ieeexplore.ieee.org/document/11053771)  approach. This repository provides a tool called **AntiClass** for inducing neural collapse via Anticlasses and one-cold cross-entropy.
 
 **Authors:** Dimitrios Katsikas, Nikolaos Passalis, Anastasios Tefas  
 
